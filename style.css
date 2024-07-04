@@ -1,5 +1,5 @@
 :root{
-    --cor-fundo: #01080E;
+    --cor-fundo: #01080e;
     --cor-principal: #0b0d20;
     --cor-secundaria: #212333;
     --cor-destaque: #2bdefd;
@@ -17,4 +17,9 @@ body{
     background-color: var(--cor-fundo);
     width: 90%;
     max-width: 600px;
+    text-align: center;
+    padding: 20px;
+}
+h1{
+    color: var(--cor-destaque);
 }
