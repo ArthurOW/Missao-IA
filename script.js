@@ -98,8 +98,7 @@ function mostraAlternativas(){
             {
                 atual++;
                 mostraPerguntas();
-            }
-        );
+            });
         caixaAlternativas.appendChild(botaoAlternativas);
     }
 }
